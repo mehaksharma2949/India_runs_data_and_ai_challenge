@@ -65,3 +65,8 @@ The project generates:
 ```
 output/submission.csv
 ```
+## 👩‍💻 Author
+
+**Mehak Sharma**
+
+- GitHub: https://github.com/mehaksharma2949
