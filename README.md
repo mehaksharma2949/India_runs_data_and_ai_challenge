@@ -1,3 +1,5 @@
+AI-powered candidate ranking system using Sentence Transformers, semantic search, and behavioral scoring.
+
 # AI Candidate Discovery & Ranking System
 
 ## 📌 Overview
