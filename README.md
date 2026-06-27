@@ -1,20 +1,32 @@
 # AI Candidate Discovery & Ranking System
 
-## Overview
+## 📌 Overview
 
-This project builds an AI-powered candidate ranking engine that matches job descriptions with candidate profiles using semantic embeddings and behavioral signals.
+This project is an AI-powered candidate ranking system that matches job descriptions with candidate profiles using semantic embeddings and multiple scoring techniques.
 
-## Features
+It ranks candidates based on:
 
-- Semantic Matching using Sentence Transformers
-- Skill-based scoring
-- Behavioral scoring
-- Experience scoring
-- Education scoring
-- Career trajectory scoring
-- Automatic CSV submission generation
+- Semantic Similarity
+- Skills
+- Behavioral Signals
+- Experience
+- Education
+- Career Growth
 
-## Tech Stack
+---
+
+## 🚀 Features
+
+- Semantic Search using Sentence Transformers
+- AI-based Candidate Ranking
+- Skill Matching
+- Experience Evaluation
+- Behavioral Analysis
+- Automatic CSV Submission Generation
+
+---
+
+## 🛠 Tech Stack
 
 - Python
 - Sentence Transformers
@@ -23,18 +35,33 @@ This project builds an AI-powered candidate ranking engine that matches job desc
 - JSON
 - Git
 
-## Project Structure
+---
 
+## 📂 Project Structure
+
+```
 src/
 data/
+models/
 output/
+```
 
-## How to Run
+---
 
+## ▶️ Run Project
+
+```bash
 pip install -r requirements.txt
 
 python src/ranker.py
+```
 
-## Output
+---
 
-submission.csv
+## 📊 Output
+
+The project generates:
+
+```
+output/submission.csv
+```
